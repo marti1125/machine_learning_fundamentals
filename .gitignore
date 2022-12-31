@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+.csv
+
+people_wiki.csv
